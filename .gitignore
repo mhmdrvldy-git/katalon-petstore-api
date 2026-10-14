@@ -18,4 +18,4 @@ build
 .cache
 
 # Local Katalon QA credentials
-Profiles/QA.glbl
+Profiles/default.glbl
