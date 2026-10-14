@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_API_004_PUT_Pet_Negative</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>328c0132-2db9-4b7d-9660-1ef236656ca3</testCaseGuid>
+</TestCaseEntity>

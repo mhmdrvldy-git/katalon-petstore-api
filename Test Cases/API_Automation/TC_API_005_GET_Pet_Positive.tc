@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_API_005_GET_Pet_Positive</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>975eaec9-2eb3-4bd1-8249-b0a865b57700</testCaseGuid>
+</TestCaseEntity>
